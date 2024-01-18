@@ -38,9 +38,9 @@ conda activate altumint_demo
 
 Download the model weights：
 
-[det_weights]("https://drive.google.com/drive/folders/1OmxDFzY65rj5Nxtdz4S1XWT2QdrkwKZr?usp=share_link")
-[pose]("https://drive.google.com/drive/folders/1XjlLCDhuuDNfYXmPo2rMr_RUSUDp2WMI?usp=share_link")
-[segmentation]("https://drive.google.com/drive/folders/1tLPndFlSsV9SR8JKG2I2ijLuqsWkcHzt?usp=share_link")
+[det_weights](https://drive.google.com/drive/folders/1OmxDFzY65rj5Nxtdz4S1XWT2QdrkwKZr?usp=share_link)
+[pose](https://drive.google.com/drive/folders/1XjlLCDhuuDNfYXmPo2rMr_RUSUDp2WMI?usp=share_link)
+[segmentation](https://drive.google.com/drive/folders/1tLPndFlSsV9SR8JKG2I2ijLuqsWkcHzt?usp=share_link)
 
 The model files are saved in the **weights/** folder.
 
